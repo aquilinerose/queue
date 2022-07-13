@@ -1,0 +1,57 @@
+photon@node11:~$ ./queuearray.out
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element35
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element68
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element47
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element25
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element39
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit1
+enter element20
+queue is fullenter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit2
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit3
+68
+47
+25
+39
+enter your choice:
+1.enqueue
+2.dequeue
+3.display
+4.exit4
+good byephoton@node11:~$ 
